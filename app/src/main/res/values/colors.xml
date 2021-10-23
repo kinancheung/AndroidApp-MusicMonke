@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#455A64</color>
+    <color name="medium_grey">#718792</color>
+    <color name="light_grey">#C4C4C4</color>
+    <color name="turquoise">#0DBFAD</color>
+    <color name="turquoise_dark">#00BFAF</color>
+    <color name="color_on_secondary">#455A64</color>
+    <color name="card_background">#E5E5E5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
