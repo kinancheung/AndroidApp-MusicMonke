@@ -7,4 +7,4 @@ The infographics of each item contain the price, description, author, name, albu
 The application is resize responsive on a variety of Android devices allowing for portability.
 
 ## Running the application
-Run this application using a API 30 Andriod device emulator.
+Run this application using a API 30 Android device emulator.
